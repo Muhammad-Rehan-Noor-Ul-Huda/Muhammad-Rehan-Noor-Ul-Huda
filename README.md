@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Rehan+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Agentic+AI+Builder;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;250%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=Hi+there%2C+I'm+Rehan+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Agentic+AI+Builder;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;250%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
