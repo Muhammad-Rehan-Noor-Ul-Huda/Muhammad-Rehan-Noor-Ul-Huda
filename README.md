@@ -84,8 +84,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Rehan-Noor-Ul-Huda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rehan-Noor-Ul-Huda&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
+<!--
+  Self-hosted GitHub stats, top languages, and trophies (see workflow that
+  generates and commits these assets). Using local references instead of
+  the public github-readme-stats / github-profile-trophy servers, since
+  those were breaking before.
+-->
+<img src="./assets/stats.svg" width="49%" alt="GitHub Stats" />
+<img src="./assets/top-langs.svg" width="42%" alt="Top Languages" />
 
 <br/>
 
@@ -98,7 +104,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Rehan-Noor-Ul-Huda&theme=tokyonight&no-frame=true&row=2&column=4" width="80%" alt="GitHub Trophies" />
+<img src="./assets/trophy.svg" width="80%" alt="GitHub Trophies" />
 
 </div>
 
