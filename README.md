@@ -1,7 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7AA2F7&height=200&section=header&text=Hi%20there,%20I'm%20Rehan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=58&descSize=18" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=Hi+there%2C+I'm+Rehan+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Agentic+AI+Builder;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;250%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;250%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+Autonomous+Agents+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,11 +19,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
-</div>
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🚀 AI/ML Engineer focused on **Agentic AI systems**, computer vision, and full-stack ML deployment
 - 🧠 Building autonomous agents with **LangChain** & **LangGraph**
@@ -32,74 +30,69 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI / ML / CV</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-2B2B2B?style=for-the-badge&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Fundamentals</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/250%2B%20LeetCode%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp" />
+
+<br/><br/>
+
+**AI / ML / Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2B2B2B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/250%2B%20LeetCode%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+</div>
 
 <br/>
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <!--
-  Self-hosted GitHub stats, top languages, and trophies (see workflow that
-  generates and commits these assets). Using local references instead of
-  the public github-readme-stats / github-profile-trophy servers, since
-  those were breaking before.
+  Self-hosted GitHub stats, top languages, and trophies. Generated and
+  committed by workflow(s) in .github/workflows/, same pattern as the
+  streak card below — local assets instead of the public
+  github-readme-stats / github-profile-trophy servers, which were
+  breaking before.
 -->
 <img src="./assets/stats.svg" width="49%" alt="GitHub Stats" />
 <img src="./assets/top-langs.svg" width="42%" alt="Top Languages" />
 
 <br/>
 
-<!--
-  Self-hosted streak stats (see .github/workflows/streak-stats.yml).
-  This file is generated and committed by the workflow, so it no longer
-  depends on the public streak-stats server that was breaking before.
--->
 <img src="./assets/streak-stats.svg" width="70%" alt="GitHub Streak Stats" />
 
 <br/><br/>
@@ -110,7 +103,7 @@
 
 <br/>
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -123,7 +116,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
-  <br/><br/>
-  <i>Thanks for stopping by — streak, trophies, and the snake above all update automatically every day 🚀</i>
+
+<i>Thanks for stopping by — streak, trophies, and the snake above all update automatically every day 🚀</i>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:414868,100:1a1b27&height=120&section=footer" />
+
 </div>
